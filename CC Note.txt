@@ -1,0 +1,4 @@
+Time:- Number of seconds elapsed between this transaction and the first transaction in the dataset
+V1-V28:- Sensitive Features (to protect Users Identities)
+Amount:- The Transaction Amount
+Class:- Fraudulent Transaction or No(1 or 0)
